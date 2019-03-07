@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Alas dear Yorick! I knew him Horatio.
 Use the left arrow to go back!
